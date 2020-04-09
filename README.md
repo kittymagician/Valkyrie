@@ -1,4 +1,5 @@
 <img src="https://github.com/kittymagician/Valkyrie/blob/master/img/cover.png" width="200" height="100">
+
 # Valkyrie
 Community COVID-19 Emergency SMS Bot built with Flask, Python and Twilio.
 
