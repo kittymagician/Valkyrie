@@ -5,6 +5,7 @@ Community COVID-19 Emergency SMS Bot built with Flask, Python and Twilio.
 
 This SMS bot has been developed to support the local community in the volume of incoming requests.
 
+Currently the bot accepts requests for food support, mediciation and emotional support however the bot can be easily modified for any topics needed. The bot provides wake words that specifically trigger requests. For example "I need" is a wake word for food. "pick up" is a wake word for medication etc. The information is the forwarded to the volenteer to respond back to. The message also includes the sender's number so that the volenteer can call the person back to confirm the request.
 
 # Installation
 
